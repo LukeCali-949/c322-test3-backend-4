@@ -1,0 +1,2 @@
+josh,$2a$10$0lkvxcAMjbmWzGrfoc6AZ.jFt5mQq8R5JLZUQBqJqKAOImKVWZYQq,josh
+carl,$2a$10$JOcLNHTKaE3LpnyLL/8gIOdVHs1uPk9Z/0S9vCRmS5ubhq5W/F7Bu,carl
