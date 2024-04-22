@@ -8,6 +8,11 @@ public class HomeController {
 
     @GetMapping("/")
     public String greetings() {
-        return "Welcome to the image quiz service!";
+        return "Welcome to the image quiz service!!!";
+    }
+
+    @GetMapping("/hello")
+    public String greetings2() {
+        return "Welcome to the image quizzzzz service!";
     }
 }
